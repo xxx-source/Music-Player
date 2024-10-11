@@ -1,1 +1,15 @@
-
+[
+{
+"ApkInfo":
+{
+"Enabled":true,
+"Type":"MAIN",
+"VersionCode":14,
+"VersionName":"1.0.7",
+"File":"音乐播放器.apk",
+"FullName":"Release",
+"BaseName":"Release",
+"Path":"Music-Player.apk"
+}
+}
+]
